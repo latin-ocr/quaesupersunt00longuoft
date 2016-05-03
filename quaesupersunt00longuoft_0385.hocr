@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaesupersunt00longuoft_0385.png"; bbox 0 0 2366 4498; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 619 1470 1285 1564">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 619 1470 1285 1564">
+     <span class='ocr_line' id='line_1_1' title="bbox 619 1470 1285 1564; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 619 1470 1285 1564; x_wconf 90' lang='lat' dir='ltr'><strong>INDEX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 1753 1713 1844">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 1753 1713 1844">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 1753 1713 1844; baseline -0.003 -29"><span class='ocrx_word' id='word_1_2' title='bbox 193 1758 466 1815; x_wconf 87' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 490 1758 592 1812; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 613 1755 1042 1844; x_wconf 87' lang='lat' dir='ltr'>VERBORUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1065 1753 1713 1821; x_wconf 85' lang='lat' dir='ltr'>MEMORABILIUM‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 847 2012 1063 2048">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 847 2012 1063 2048">
+     <span class='ocr_line' id='line_1_3' title="bbox 847 2012 1063 2048; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 847 2012 1063 2048; x_wconf 72' lang='lat' dir='ltr'>NBCNON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 218 2225 1685 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 218 2225 1685 2404">
+     <span class='ocr_line' id='line_1_4' title="bbox 218 2225 1685 2282; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 218 2230 660 2282; x_wconf 83' lang='lat' dir='ltr'>SCRIPTORUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 684 2230 816 2281; x_wconf 77' lang='lat' dir='ltr'>QUI</span> <span class='ocrx_word' id='word_1_9' title='bbox 838 2231 919 2282; x_wconf 91' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_10' title='bbox 940 2225 1685 2280; x_wconf 83' lang='lat' dir='ltr'>ANIMADVERSIONIBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 488 2341 1417 2404; baseline 0 -12"><span class='ocrx_word' id='word_1_11' title='bbox 488 2343 861 2404; x_wconf 80' lang='lat' dir='ltr'><strong>TOUPIANIS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 895 2341 1417 2396; x_wconf 83' lang='lat' dir='ltr'>EMENDANTUR.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
